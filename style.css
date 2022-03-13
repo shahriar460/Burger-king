@@ -1,0 +1,40 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+}
+.superior {
+  color: orange;
+}
+.heading-spical {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  /* font-weight: 900; */
+  font-size: 70px;
+}
+.top-banar {
+  display: flex;
+  margin-top: 50px;
+}
+.half-width {
+  width: 50%;
+  padding-left: 2%;
+}
+.half-width img {
+  width: 80%;
+  /* float: right; */
+  padding-left: 35px;
+}
+p {
+  text-transform: lowercase;
+  margin-bottom: 100px;
+  font-size: 20px;
+}
+.Ancho-button {
+  background-image: linear-gradient(orange, tomato);
+  border-radius: 30px;
+  padding: 20px 50px;
+}
+.Anchor {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+}
