@@ -8,7 +8,7 @@ body {
 .heading-spical {
   font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   /* font-weight: 900; */
-  font-size: 70px;
+  font-size: 60px;
 }
 .top-banar {
   display: flex;
@@ -19,7 +19,7 @@ body {
   padding-left: 2%;
 }
 .half-width img {
-  width: 80%;
+  width: 70%;
   /* float: right; */
   padding-left: 35px;
 }
@@ -31,7 +31,7 @@ p {
 .Ancho-button {
   background-image: linear-gradient(orange, tomato);
   border-radius: 30px;
-  padding: 20px 50px;
+  padding: 10px 40px;
 }
 .Anchor {
   text-decoration: none;
