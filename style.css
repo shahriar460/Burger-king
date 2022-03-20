@@ -45,7 +45,51 @@ p {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.spical-paragraph {
+  /* text-align: center; */
+}
+
 .heading-tow {
   font-size: 30px;
   font: weight 900px;
+}
+
+.Recipes {
+  margin-top: 150px;
+}
+.our-Recipes p {
+  text-align: center;
+  padding: 20px;
+}
+.heading-tow {
+  text-align: center;
+}
+.recipe {
+  display: flex;
+  /* width: fit-content; */
+  height: 600px;
+  margin-bottom: 150px;
+}
+.recipe-item {
+  width: 32%;
+  box-shadow: 10px 10px 40px grey;
+  /* padding-left: 2%; */
+  margin-left: 5%;
+  margin-right: 2%;
+  border-radius: 30px;
+  /* border-bottom: 7px solid;
+  border-bottom-left-radius: 50px 150px;
+  border-bottom-right-radius: 50px 20px;
+  border-image: linear-gradient(orange, tomato);
+  border-image-slice: 1; */
+}
+.recipe-item img {
+  width: 100%;
+}
+.caption {
+  font-size: 20px;
+  font-weight: 900;
+}
+.caption-paragraph {
+  font-size: 18px;
 }
