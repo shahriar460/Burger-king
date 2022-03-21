@@ -93,3 +93,41 @@ p {
 .caption-paragraph {
   font-size: 18px;
 }
+.socila-media {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  box-shadow: 10px 10px 40px grey;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-radius: 20px;
+  height: 200px;
+  margin-bottom: 150px;
+  padding-top: 20px;
+}
+.imedia-item {
+  margin-left: 10%;
+  margin-right: 10%;
+}
+.media-H {
+  font-size: 40px;
+  font-weight: 900;
+  line-height: 10px;
+}
+.media-p {
+  font-size: 15px;
+}
+footer {
+  text-align: center;
+  background: #000;
+  height: 250px;
+  color: antiquewhite;
+  padding-top: 50px;
+  font-weight: 900;
+}
+.footer-H {
+  font-size: 40px;
+}
+.footer-h-s {
+  color: orange;
+}
